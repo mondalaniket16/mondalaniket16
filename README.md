@@ -1,5 +1,5 @@
 # Hi I'm Aniket Mondal 
-🎓 Currently pursuing Cyber-Physical Systems Engineering<br>💡 Passionate about embedded systems, IoT, robotics, microcontrollers (8051, Arduino, Raspberry Pi), and AI-driven automation<br>⚙️ Skilled in C, Python, Assembly (8051), and system design<br>🔬 Interested in building smart systems that integrate hardware and software for real-world problem solving<br>🌱 Always exploring automation, control systems, cybersecurity in CPS, and edge computing<br>🤝 Open to collaboration on IoT projects, embedded applications, and research in CPS
+🎓 Currently pursuing Cyber-Physical Systems Engineering<br>⚙️ Skilled in C, CPP, Java, Python, Assembly (8051), and system design<br>💡 Passionate about embedded systems, IoT, robotics, microcontrollers (8051, Arduino, Raspberry Pi), and AI-driven automation<br>🔬 Interested in building smart systems that integrate hardware and software for real-world problem solving<br>🌱 Always exploring automation, control systems, cybersecurity in CPS, and edge computing<br>🤝 Open to collaboration on IoT projects, embedded applications, and research in CPS
 
 
 ## 🌐 Socials:
