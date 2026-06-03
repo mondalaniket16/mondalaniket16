@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mondalaniket16-boop&repo=my-project)](https://github.com/mondalaniket16-boop/my-project)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/mondalaniket16/contributed.svg?max_repos=7)
 ---
 [![](https://visitcount.itsvg.in/api?id=mondalaniket16-boop&icon=0&color=0)](https://visitcount.itsvg.in)
 
