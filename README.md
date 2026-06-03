@@ -21,9 +21,9 @@
 ## 📈 Contribution Graph
 [![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mondalaniket16&theme=github-dark)](https://github.com/mondalaniket16)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mondalaniket16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondalaniket16&theme=github_dark" />
 </p>
 
 ### ✍️ Random Dev Quote
