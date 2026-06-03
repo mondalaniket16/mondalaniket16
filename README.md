@@ -25,7 +25,7 @@
 -->
 
 ## 📈 Contribution Graph
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondalaniket16-boop&theme=github_dark)
+[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mondalaniket16&theme=github-dark)](https://github.com/mondalaniket16)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
