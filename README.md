@@ -18,14 +18,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mondalaniket16-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mondalaniket16)](https://git.io/streak-stats)
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mondalaniket16-boop&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=mondalaniket16-boop&theme=radical&no-frame=true&no-bg=true&margin-w=4)
--->
-
 ## 📈 Contribution Graph
 [![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mondalaniket16&theme=github-dark)](https://github.com/mondalaniket16)
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mondalaniket16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
