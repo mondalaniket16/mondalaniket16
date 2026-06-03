@@ -23,9 +23,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--### 🔝 Top Contributed Repo
-[![GitHub Streak](https://streak-stats.demolab.com?user=mondalaniket16)](https://git.io/streak-stats)
-
+### 🔝 Top Contributed Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mondalaniket16-boop&repo=my-project)](https://github.com/mondalaniket16-boop/my-project)
 ---
 [![](https://visitcount.itsvg.in/api?id=mondalaniket16-boop&icon=0&color=0)](https://visitcount.itsvg.in)
 
